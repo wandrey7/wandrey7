@@ -2,7 +2,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wandrey7&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Wandrey github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandrey7&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wandrey7&show_icons=true&bg_color=333&text_color=fff&title_color=D1D1D1&icon_color=D1D1D1&border_radius=8&hide=prs&include_all_commits=true" />
 </div>
 
 <h2 align="center" >Tecnologias que utilizo</h2>
