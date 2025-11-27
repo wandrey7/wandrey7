@@ -9,7 +9,7 @@
 <h2 align="center" >GitHub Stats</h2>
 
 <table><tbody><tr border="none"><td width="50%" align="center">
-<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=brandonc123&theme=dark&show_icons=true&count_private=true">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=wandrey7&theme=dark&show_icons=true&count_private=true">
 
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=wandrey7&theme=dark"></td><td width="50%" align="center">
 <img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=wandrey7&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
